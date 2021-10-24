@@ -1,0 +1,152 @@
+[
+    {
+        "answer": "ul, li, h5, p, div, section, main"
+    },
+    {
+        "answer": ":root"
+    },
+    {
+        "answer": "var, const, let"
+    },
+    {
+        "answer": "нет"
+    },
+    {
+        "answer": "завершает текущую итерацию цикла и начинает следующую"
+    },
+    {
+        "answer": "git config gui.encoding utf-8"
+    },
+    {
+        "answer": "content"
+    },
+    {
+        "answer": "object"
+    },
+    {
+        "answer": "по 3"
+    },
+    {
+        "answer": "series()"
+    },
+    {
+        "answer": "baNaNa"
+    },
+    {
+        "answer": "GET"
+    },
+    {
+        "answer": "->"
+    },
+    {
+        "answer": "пока не закрыть браузер"
+    },
+    {
+        "answer": "рекурсия"
+    },
+    {
+        "answer": "new XMLHttpRequest(), fetch()"
+    },
+    {
+        "answer": "the_post_thumbnail()"
+    },
+    {
+        "answer": "babel"
+    },
+    {
+        "answer": "gap"
+    },
+    {
+        "answer": "создавать циклы"
+    },
+    {
+        "answer": "можно передать любое кол-во параметров"
+    },
+    {
+        "answer": "new PDO()"
+    },
+    {
+        "answer": "git pull"
+    },
+    {
+        "answer": "10611"
+    },
+    {
+        "answer": "unlink()"
+    },
+    {
+        "answer": "wp_enqueue_scripts"
+    },
+    {
+        "answer": "this.constructor.hello()"
+    },
+    {
+        "answer": "нет"
+    },
+    {
+        "answer": "nowrap"
+    },
+    {
+        "answer": "объектно-ориентированное программирование"
+    },
+    {
+        "answer": "≥ 768px"
+    },
+    {
+        "answer": "1320px"
+    },
+    {
+        "answer": "window"
+    },
+    {
+        "answer": "27"
+    },
+    {
+        "answer": "move_uploaded_file()"
+    },
+    {
+        "answer": "Который написан в подключенном файле"
+    },
+    {
+        "answer": "нет"
+    },
+    {
+        "answer": "clearInterval(a)"
+    },
+    {
+        "answer": "интерполяция"
+    },
+    {
+        "answer": "protected может наследоваться, а private нет"
+    },
+    {
+        "answer": "LIMIT"
+    },
+    {
+        "answer": "PRIMARY"
+    },
+    {
+        "answer": "query()"
+    },
+    {
+        "answer": "с большой буквы"
+    },
+    {
+        "answer": "get_posts()"
+    },
+    {
+        "answer": "changedTouches"
+    },
+    {
+        "answer": "можно дописав перед функцией слово async"
+    },
+    {
+        "answer": "value"
+    },
+    {
+        "answer": "таксономии"
+    },
+    {
+        "answer": "да при помощи animate"
+    }
+]
