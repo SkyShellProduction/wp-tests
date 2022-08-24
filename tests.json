@@ -148,5 +148,35 @@
     },
     {
         "answer": "да при помощи animate"
+    },
+    {
+        "answer": "npm install"
+    },
+    {
+        "answer": "entry"
+    },
+    {
+        "answer": "IntersectionObserver"
+    },
+    {
+        "answer": "provide"
+    },
+    {
+        "answer": "emit"
+    },
+    {
+        "answer": "commit"
+    },
+    {
+        "answer": "ref"
+    },
+    {
+        "answer": "только при помощи mutations"
+    },
+    {
+        "answer": "$router.push('/some')"
+    },
+    {
+        "answer": "alias"
     }
 ]
